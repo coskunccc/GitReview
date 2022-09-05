@@ -4,6 +4,7 @@ public class ClassA {
         System.out.println("tracking started");
             //master changed some things
         //Branch2 made change
+        // last change
 
     }
 }
